@@ -1,0 +1,14 @@
+Comparision between 'clusters.txt' and cluster by: Levensthein method.
+Micro-average-precision: 0.905
+Micro-average-recall: 0.255
+Micro-average-f1: 0.397
+
+Comparision between 'clusters.txt' and cluster by: DiceCoefficient method.
+Micro-average-precision: 0.866
+Micro-average-recall: 0.320
+Micro-average-f1: 0.468
+
+Comparision between Levensthein and cluster by: DiceCoefficient method.
+Micro-average-precision: 0.855
+Micro-average-recall: 0.927
+Micro-average-f1: 0.890

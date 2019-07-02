@@ -1,0 +1,3 @@
+LSA stats:
+Precision = 0.453, Recall = 0.933, F1 = 0.609
+

@@ -1,0 +1,4 @@
+Count of hapax legomena: 4320.
+Count of words, which contains 50% of text: 139.
+K: [23354.4391255].
+P: 42186.762402911074 d: 1.312992859174706 B: 0.9880344817142246.
